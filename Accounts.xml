@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Item>
+    <Server><![CDATA[Server]]></Server>
+    <Username><![CDATA[Username]]></Username>
+    <Password><![CDATA[Password]]></Password>
+    <FrameWorking>1</FrameWorking>
+    <AutoSkip>Skip</AutoSkip>
+    <SkipWhenTimeoutSecondsLeft>1</SkipWhenTimeoutSecondsLeft>
+    <AutoText>True</AutoText>
+    <EnterWhenInputTextDone>False</EnterWhenInputTextDone>
+    <AutoPause>True</AutoPause>
+    <PauseWhenSkipLimit>10</PauseWhenSkipLimit>
+    <AutoFix>True</AutoFix>
+    <ProxyAddressPort><![CDATA[]]></ProxyAddressPort>
+    <Cookies><![CDATA[]]></Cookies>
+    <MinPay><![CDATA[0]]></MinPay>
+    <PaymentHistory><![CDATA[]]></PaymentHistory>
+    <Statistics><![CDATA[]]></Statistics>
+  </Item>
+  <Account>
+  </Account>
+</root>

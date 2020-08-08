@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <SerialKey><![CDATA[]]></SerialKey>
+  <TopMost>False</TopMost>
+  <AutoFocus>True</AutoFocus>
+  <SoundNotify>True</SoundNotify>
+  <AutoOffCapsLock>True</AutoOffCapsLock>
+  <Mode>1</Mode>
+  <CustomMode><![CDATA[]]></CustomMode>
+  <ActivateCaptchaPanelColor><![CDATA[-29696]]></ActivateCaptchaPanelColor>
+  <AutoAdjustCaptchaWorking><![CDATA[False]]></AutoAdjustCaptchaWorking>
+  <AutoFlashTimeout><![CDATA[True]]></AutoFlashTimeout>
+</root>
